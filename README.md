@@ -1,2 +1,2 @@
 # coding-questions
-Coding Interview Questions
+Random Coding Interview Questions
